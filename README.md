@@ -7,6 +7,7 @@ Adapted for: DEN
 
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
+<!--9:08 -->
 <!--9:00 5 minutes -->
 
 <!-- So who remembers Git?
@@ -46,6 +47,7 @@ Today we will show an incredibly easy way to get a front-end website online call
 - **Explain** basic git commands like init, add, commit, push, pull and clone
 - **Fork and clone** remote repositories
 
+<!--9:11 -->
 <!--9:05 15 minutes -->
 <!--It is vitally important that you parking lot all questions in this section--most questions will be answered by activities by end of class-->
 
@@ -203,6 +205,7 @@ You can `push` and `pull` those branches easily to save your work up in the clou
 
 > "Real programmers don't edit `master`." – Dave, the Programmer
 
+<!--9:26-->
 <!--9:20 5 minutes -->
 
 ## Practice thinking in "branches" - Discussion
@@ -215,6 +218,7 @@ Team up with the person next to you, and go through the following commands we've
 
 Based on what we've talked about, and before you jump into your terminal, discuss the correct commands you would have to use - and the correct order you would need to use them in - to repeat the process of creating a readme. Be aware of the "why" and that you may have to use some commands more than once.
 
+<!--9:35 -->
 <!--9:25 10 minutes -->
 
 ## Branch, Push, Merge, Repeat - Independent Practice
@@ -234,6 +238,7 @@ Once you've got it down, switch roles, and do the same process again, so you get
 
 <!--While devs work on independent practice, get most of the next activity (pull request from instructor's fork) ready -->
 
+<!--9:45 talked about diff checking and answered pent-up Qns too -->
 <!--9:35 10 minutes -->
 
 ## Create a pull request on GitHub - Catchup
@@ -258,6 +263,7 @@ Follow the instructions below to create a pull request:
 7. Enter a title and description for your pull request
 8. Click `Send pull request`
 
+<!--10:15 -->
 <!--9:45 10 minutes -->
 
 ## GitHub pages - Demo
@@ -290,6 +296,7 @@ git push origin gh-pages
 
 <!--Encourage devs to read any error messages, google them, and ask if still stuck -->
 
+<!--Actually 10:42 -->
 <!--9:55 5 minutes -->
 
 ## Conclusion
