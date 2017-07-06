@@ -8,6 +8,7 @@ Adapted for: DEN
 ![](https://ga-dash.s3.amazonaws.com/production/assets/logo-9f88ae6c9c3871690e33280fcf557f33.png)
 
 <!--9:08 -->
+<!--9:04 WDI4 -->
 <!--9:00 5 minutes -->
 
 <!-- So who remembers Git?
@@ -48,6 +49,7 @@ Today we will show an incredibly easy way to get a front-end website online call
 - **Fork and clone** remote repositories
 
 <!--9:11 -->
+<!--WDI4 9:08 -->
 <!--9:05 15 minutes -->
 <!--It is vitally important that you parking lot all questions in this section--most questions will be answered by activities by end of class-->
 
@@ -206,6 +208,7 @@ You can `push` and `pull` those branches easily to save your work up in the clou
 > "Real programmers don't edit `master`." – Dave, the Programmer
 
 <!--9:26-->
+<!--9:25 WDI4 -->
 <!--9:20 5 minutes -->
 
 ## Practice thinking in "branches" - Discussion
@@ -219,6 +222,7 @@ Team up with the person next to you, and go through the following commands we've
 Based on what we've talked about, and before you jump into your terminal, discuss the correct commands you would have to use - and the correct order you would need to use them in - to repeat the process of creating a readme. Be aware of the "why" and that you may have to use some commands more than once.
 
 <!--9:35 -->
+<!--WDI4 9:30-->
 <!--9:25 10 minutes -->
 
 ## Branch, Push, Merge, Repeat - Independent Practice
@@ -239,6 +243,7 @@ Once you've got it down, switch roles, and do the same process again, so you get
 <!--While devs work on independent practice, get most of the next activity (pull request from instructor's fork) ready -->
 
 <!--9:45 talked about diff checking and answered pent-up Qns too -->
+<!--WDI4 9:37-->
 <!--9:35 10 minutes -->
 
 ## Create a pull request on GitHub - Catchup
@@ -263,6 +268,8 @@ Follow the instructions below to create a pull request:
 7. Enter a title and description for your pull request
 8. Click `Send pull request`
 
+<!--9:44 after demo finished WDI4 -->
+<!--9:52 after devs done WDI4 -->
 <!--10:15 -->
 <!--9:45 10 minutes -->
 
@@ -289,12 +296,20 @@ echo "<h1> GitHub pages! </h1>" >> index.html
 ```bash
 git branch gh-pages
 git checkout gh-pages
+```
+
+Finally, you need to link this directory to a remote on GitHub.
+
+Create a `New Repository` on GitHub and `add` the `remote` URL of that repository.  If you're not sure how to do this, you can check out [this link](https://help.github.com/articles/adding-a-remote/).
+
+```bash
 git push origin gh-pages
 ```
 
 ...you'll be able to navigate to http://YOURUSERNAME.github.io/REPOSITORYNAME to view the rendered html. You can also point a new domain name to this URL; this would give you a fully deployed project with a custom URL.
 
 <!--Encourage devs to read any error messages, google them, and ask if still stuck -->
+<!--10:01 turning over to devs WDI4 -->
 
 <!--Actually 10:42 -->
 <!--9:55 5 minutes -->
@@ -312,5 +327,7 @@ Don't be frustrated by all the new commands because we will definitely have the 
 - How do you switch between branches?
 - How do you merge & delete a branch?
 
+<!--10:15 after questions WDI4-->
+
 ## Associated Lab
-Refine the skills covered in this workshop with this [lab](https://github.com/den-wdi-2/gh-lab)
+Refine the skills covered in this workshop with this [lab](https://github.com/den-materials/gh-lab)
