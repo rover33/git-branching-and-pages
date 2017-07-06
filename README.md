@@ -302,6 +302,8 @@ Finally, you need to link this directory to a remote on GitHub.
 
 Create a `New Repository` on GitHub and `add` the `remote` URL of that repository.  If you're not sure how to do this, you can check out [this link](https://help.github.com/articles/adding-a-remote/).
 
+Then, push your changes up to your new repository:
+
 ```bash
 git push origin gh-pages
 ```
